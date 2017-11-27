@@ -8,3 +8,7 @@ Our results displayed high alertness detection rates and also helped establish w
 
 ## The dataset
 The dataset is present on Kaggle and was provided by Ford for it's "Stay Alert! The Ford Challenge".The dataset can be found [here](https://www.kaggle.com/c/stayalert#description).
+
+## Workflow
+Our proposed model consists of a series of steps, which can be seen in the figure below:
+![Alt text](flowchart.png)
