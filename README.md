@@ -12,3 +12,5 @@ The dataset is present on Kaggle and was provided by Ford for it's "Stay Alert! 
 ## Workflow
 Our proposed model consists of a series of steps, which can be seen in the figure below:
 ![Alt text](flowchart.png)
+
+### Our research paper for this project has been selected at [ISDA 2017](http://www.mirlabs.net/isda17/) and shall be duly published
